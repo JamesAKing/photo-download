@@ -1,0 +1,24 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start" : "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesAKing/photo-download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesAKing/photo-download/issues"
+  },
+  "homepage": "https://github.com/JamesAKing/photo-download#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
